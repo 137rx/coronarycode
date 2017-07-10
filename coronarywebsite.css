@@ -1,0 +1,53 @@
+
+ /** Button Style **/
+.button {
+  /** Font Style **/
+   font-family: "arial";
+   float: right;
+  font-size: 15px;
+	color:# 636666;
+  
+  /** Button Style **/ 
+  display: inline-block;
+  padding-right: 7px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+	border: none;
+}
+
+nav {
+  background-color: #25C2DF;
+  padding-left: 200px;
+}
+
+
+body {
+
+    margin-right: 35%;
+	margin-left: 15%;
+	background-color: #7FDBFF;
+	} 
+
+
+  li {
+      display: inline;
+      padding: 0px 7px 0px 7px;
+      font-family: "Brush Script MT", cursive;
+      background-color: #00CED1;
+      font-size: 20px;
+  }
+
+h1 {
+	font-family: "Brush Script MT", cursive;
+	font-size: 300%;
+	font-style: normal;
+	border-bottom: solid;
+	background-color: none;
+    color: #00CED1;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+#more_info  li{
+ 	position: absolute;
+    bottom: 5px;
+ }
