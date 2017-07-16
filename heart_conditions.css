@@ -1,0 +1,90 @@
+/** Button Style **/
+.button {
+ /** Font Style **/
+  font-family: "arial";
+  float: right;
+ font-size: 15px;
+ color:# 636666;
+
+ /** Button Style **/
+ display: inline-block;
+ padding-right: 7px;
+ margin-top: 10px;
+ margin-bottom: 10px;
+ border: none;
+}
+
+
+nav {
+ background-color: #25C2DF;
+ padding-left: 200px;
+}
+
+
+body {
+
+  margin-right: 35%;
+ margin-left: 15%;
+ background-color: none;
+ text-align: center;
+ }
+
+ li {
+     display: inline;
+     padding: 0px 10px 0px 10px;
+     font-family: "Brush Script MT", cursive;
+     background-color: none;
+     font-size: 25px;
+
+ }
+
+h1 {
+ font-family: "Brush Script MT", cursive;
+ font-size: 300%;
+ font-style: normal;
+ border-bottom: solid;
+ background-color: none;
+   color: #00CED1;
+
+}
+
+p {
+  padding-left: 125px;
+  padding-right: 125px;
+  color: rgb(11,51,81);
+  background: white;
+  line-height: 28px;
+  text-align: justify;
+  bottom: 0;
+  margin: 0;
+}
+
+h2 {
+ font-family: "Brush Script MT", cursive;
+ font-size: 200%;
+ font-style: normal;
+ border-bottom: solid;
+ background-color: none;
+   color: #00CED1;
+
+}
+
+.ecg_pic {
+  background-image: url("https://lifeinthefastlane.com/wp-content/uploads/2010/01/20041_ECG_2.jpg");
+  padding-left: 120px;
+  padding-right: 120px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 75%;
+}
+
+.first_p {
+  padding-left: 120px;
+  padding-right: 120px;
+}
+
+input[type=text] {
+   width: 130px;
+   -webkit-transition: width 0.4s ease-in-out;
+   transition: width 0.4s ease-in-out;
+}
